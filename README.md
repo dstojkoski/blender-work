@@ -13,3 +13,4 @@ Modeled and textured a low poly Porsche 911
 ## Human head sculpt
 
 ![Render of the sculpt](head.png)
+![Front view of the sculpt](head_front.png)
